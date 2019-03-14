@@ -1,0 +1,19 @@
+div .container{
+   text-align: center;
+   display:flex;
+   justify-content: center;
+   flex-direction: row;
+   text-align: center;
+}
+
+
+  element.style {
+      text-align: center;
+}
+.card-text{
+    text-align: center;
+}
+div.images{
+    display: flex;
+    flex-direction: row;
+}
